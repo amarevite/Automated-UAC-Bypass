@@ -16,7 +16,7 @@ Download the .zip from the green `Clone or download` button above and to the rig
 
 Extract the downloaded .zip file.
 
-Locate the file aptly named <code>Right-Click-Run-with-PowerShell</code> and, as the name suggests, right click the file and run with PowerShell.
+Locate the file aptly named <code>Right-Click-Run-with-PowerShell</code> and, as the name suggests, right click the file and run with **PowerShell**.
 
 Follow the prompt in the new popup window.
 
