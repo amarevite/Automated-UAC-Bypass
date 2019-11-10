@@ -25,4 +25,4 @@ I suggest using the file location of the <code>addadmin.bat</code> file inside t
 If you do choose to use the <code>addadmin.bat</code> file, follow the onscreen directions. It will be inside of the new window, not a seperate popup like before.
 
 
-I suggest using the program `UAC Pass` in conjunction with this program. If you would like to use it, you can find it at https://sites.google.com/site/freeavvarea/UACPass-en.
+I suggest using the program **UAC Pass** in conjunction with this program. If you would like to use it, you can find it at https://sites.google.com/site/freeavvarea/UACPass-en.
