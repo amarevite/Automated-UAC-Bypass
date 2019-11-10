@@ -7,7 +7,6 @@ $executingScriptDirectory = Split-Path -Path $MyInvocation.MyCommand.Definition 
 $addadminpath = Join-Path $executingScriptDirectory "addadmin.bat"
 
 
-
 [void][System.Reflection.Assembly]::LoadWithPartialName('Microsoft.VisualBasic')
 $floc = [Microsoft.VisualBasic.Interaction]::InputBox("Enter location of the file you would like to run as admin and click OK.
 

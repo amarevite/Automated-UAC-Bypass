@@ -1,4 +1,5 @@
 @echo off
+
 set /p admacc="Admin Account Name? (keep it short without spaces) "
 set /p admpass="Password? (keep it short without spaces) "
 
