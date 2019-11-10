@@ -20,7 +20,7 @@ Locate the file aptly named <code>Right-Click-Run-with-PowerShell</code> and, as
 
 Follow the prompt in the new popup window.
 
-I suggest using the file location of the <code>addadmin.bat</code> file inside the extracted folder. It should be set to that location by default. Otherwise, change it manually. If you would rather simply start a file that requires elevated privileges to run and don't want to create an admin account, change the location in the input box to the location of that file.
+I suggest using the file location of the <code>addadmin.bat</code> file inside the extracted folder. It should be set to that location by default. Otherwise, change it manually. If you would rather start a file that requires elevated privileges to run but don't want to create an admin account, change the location in the input box to the location of that file.
 
 If you do choose to use the <code>addadmin.bat</code> file, follow the onscreen directions. The file will prompt you for an account name and passowrd. *Keep them short and don't add spaces. This is to keep anything from uninstentionally breaking.* The prompts will be inside of the new **Command Prompt** window, not a seperate popup like before.
 
