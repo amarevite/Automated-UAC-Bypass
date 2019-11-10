@@ -1,6 +1,6 @@
 Download the .zip from the green 'Clone or download' button above and to the right or [Click Here](https://github.com/connconnfuntime/Automated-UAC-Bypass/archive/master.zip "Master.zip Download")
 
-*Note: These files are intended only for testing on a computer which you are allowed to do so on. I am not responsible for what you use these files for. Follow legal regulations. *
+*Note: These files are intended only for testing on a computer which you are allowed to do so on. I am not responsible for what you use these files for. Follow legal regulations.*
 
 *Note 2: The download may be flagged as a virus. That's because it basically is. You're accessing admin priveledges when you shouldn't be. You can always verify code inside of each file here on GitHub before downloading if you don't want to blindly trust someone on the internet.*
 
