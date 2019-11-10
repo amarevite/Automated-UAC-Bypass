@@ -9,3 +9,6 @@ Follow the prompt in the new popup window.
 I suggest using the file location of the 'addadmin.bat' file inside the extracted folder.
 
 It should be set to that location by default. Otherwise, change it manually.
+
+
+I suggest using the program 'UAC Pass' in conjunction with this program. If you would like to use it, you can find it at https://sites.google.com/site/freeavvarea/UACPass-en.
