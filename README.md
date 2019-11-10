@@ -12,9 +12,7 @@ Download the .zip from the green `Clone or download` button above and to the rig
 >
 > *You can always verify code inside of each file here on GitHub before downloading if you don't want to blindly trust someone on the internet.*
 
-@Text ? “—” : “”
 
-/* ——————————————————————————————————-
 
 Extract the downloaded .zip file.
 
