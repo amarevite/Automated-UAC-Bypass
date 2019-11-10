@@ -1,4 +1,4 @@
-Download the .zip from the green "Clone or download" button above and to the right.
+Download the .zip from the green "Clone or download" button above and to the right or [Click Here](https://github.com/connconnfuntime/Automated-UAC-Bypass/archive/master.zip "Master.zip Download")
 
 Extract the downloaded .zip file.
 
