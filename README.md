@@ -20,9 +20,9 @@ Locate the file aptly named <code>Right-Click-Run-with-PowerShell</code> and, as
 
 Follow the prompt in the new popup window.
 
-I suggest using the file location of the <code>addadmin.bat</code> file inside the extracted folder. It should be set to that location by default. Otherwise, change it manually. If you would rather simply run a file that requires elevated privileges to run without creating an admin account, change the location in the inpout box to the location of that file.
+I suggest using the file location of the <code>addadmin.bat</code> file inside the extracted folder. It should be set to that location by default. Otherwise, change it manually. If you would rather simply start a file that requires elevated privileges to run and don't want to create an admin account, change the location in the input box to the location of that file.
 
-If you do choose to use the <code>addadmin.bat</code> file, follow the onscreen directions. It will be inside of the new window, not a seperate popup like before.
+If you do choose to use the <code>addadmin.bat</code> file, follow the onscreen directions. The file will prompt you for an account name and passowrd. *Keep them short and don't add spaces. This is to keep anything from uninstentionally breaking.* The prompts will be inside of the new **Command Prompt** window, not a seperate popup like before.
 
 
 I suggest using the program **UAC Pass** in conjunction with this program. If you would like to use it, you can find it at https://sites.google.com/site/freeavvarea/UACPass-en.
