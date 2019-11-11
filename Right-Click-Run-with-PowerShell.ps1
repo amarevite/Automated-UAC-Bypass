@@ -1,4 +1,4 @@
-"If this text is being displayed within a PowerShell window, follow the onscreen prompt."
+"If this text is being displayed within a PowerShell or Command Prompt window, follow the directions from the onscreen prompt."
 ""
 "If you are instead seeing this inside of a text editor, please close the current window, right click this file, and click 'Run with PowerShell' to open."
 

@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  C:\Users\Lawrence\Downloads\Automated-UAC-Bypass\Automated-UAC-Bypass\Right-Click-Run-with-PowerShell.ps1
